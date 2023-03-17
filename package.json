@@ -1,0 +1,19 @@
+{
+   "name": "mm-google-task",
+   "version": "1.0.0",
+   "description": "MagicMirror module to display Google Tasks",
+   "main": "MM-GoogleTask.js",
+   "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+   },
+   "repository": {
+      "type": "git",
+      "url": "git+https://github.com/yourusername/mm-google-task.git"
+   },
+   "author": "",
+   "license": "ISC",
+   "bugs": {
+      "url": "https://github.com/dustbits/mm-google-task/issues"
+   },
+   "homepage": "https://github.com/dustbits/mm-google-task#readme"
+}
