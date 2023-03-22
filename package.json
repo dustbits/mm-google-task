@@ -2,7 +2,7 @@
    "name": "mm-google-task",
    "version": "1.0.0",
    "description": "MagicMirror module to display Google Tasks",
-   "main": "MM-GoogleTask.js",
+   "main": "mm-google-task.js",
    "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1"
    },
